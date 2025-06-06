@@ -1,5 +1,7 @@
 # Generated from templates/gitops-template/azure-pipelines.yml.njk. Do not edit directly.
 
+pr:
+  - main
 trigger:
   - main
 
