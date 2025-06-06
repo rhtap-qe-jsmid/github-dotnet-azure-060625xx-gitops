@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: github-dotnet-azure-060625xx-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/github-dotnet-azure-060625xx
